@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Human Resources",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Engineering",
+    "rating": 4.8
+  }
+]
